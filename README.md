@@ -1,7 +1,7 @@
 ## Speed Test App v0.0
-A simple Python app to log the **Download** and **Upload** speed of your Wi-Fi in Mbps
+A simple Python app to log the **Download** and **Upload** speed of your Wi-Fi in Mbps.
 
-Update based on my mood
+Update depends on my mood.
 ## Language
 _Python_
 
@@ -10,5 +10,5 @@ _Python_
 2. File I/O
 
 ## How to use?
-Download the SpeedTestApp.exe and run it
+Download the SpeedTestApp.exe and run it...
 
