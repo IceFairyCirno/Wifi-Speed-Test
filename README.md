@@ -10,5 +10,5 @@ _Python_
 2. File I/O
 
 ## How to use?
-Download the SpeedTestApp.exe and run it...
+Download the SpeedTestApp.exe and Assets folder, then run it...
 
